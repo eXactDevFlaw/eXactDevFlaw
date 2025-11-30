@@ -23,7 +23,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=eXactDevFlaw&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eXactDevFlaw&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=eXactDevFlaw&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📫 Kontakt
 - GitHub: [@eXactDevFlaw](https://github.com/eXactDevFlaw)
