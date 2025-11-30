@@ -22,8 +22,11 @@
 ![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=flat&logo=material-design&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🏆 GitHub Profile
-[![trophy](https://github-profile-trophy.vercel.app/?username=eXactDevFlaw&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+## 🎯 Aktuell am Lernen
+- Angular Single-Page Applications
+- Django REST APIs
+- Material Design Principles
+- Clean Code & Best Practices
 
 ## 📫 Kontakt
 - GitHub: [@eXactDevFlaw](https://github.com/eXactDevFlaw)
