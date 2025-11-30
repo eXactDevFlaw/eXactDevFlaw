@@ -22,10 +22,8 @@
 ![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=flat&logo=material-design&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eXactDevFlaw&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=eXactDevFlaw&layout=compact&theme=tokyonight&hide_border=true)
+## 🏆 GitHub Profile
+[![trophy](https://github-profile-trophy.vercel.app/?username=eXactDevFlaw&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Kontakt
 - GitHub: [@eXactDevFlaw](https://github.com/eXactDevFlaw)
