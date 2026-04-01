@@ -1,4 +1,4 @@
-# Hey, ich bin eXactDevFlaw 👋
+# Hey, ich bin Lutz Bölling 👋
 
 ## 🚀 Über mich
 - 🎓 Fullstack-Entwickler Weiterbildung bei der Developer Akademie
