@@ -30,3 +30,4 @@
 
 ## 📫 Kontakt
 - GitHub: [@eXactDevFlaw](https://github.com/eXactDevFlaw)
+- Mail: [Mail - eXactDevFlaw](mailto:exactstack@gmail.com)
