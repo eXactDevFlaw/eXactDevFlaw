@@ -1,33 +1,37 @@
-# Hey, ich bin Lutz Bölling 👋
+<h1>Hi, ich bin Lutz 👋</h1>
 
-## 🚀 Über mich
-- 🎓 Fullstack-Entwickler Weiterbildung bei der Developer Akademie
-- 💻 Lerne moderne Web-Entwicklung von Frontend bis Backend
-- 🎮 Baue nebenbei eigene JavaScript-Projekte und Games
-- 🎯 Fokus: Clean Code & Object-Oriented Programming
+**Webentwickler aus Weyhe bei Bremen** und Inhaber von **[eXactStack](https://exactstack.de)**.
+Ich entwickle Websites und Web-Anwendungen im Frontend und im Backend: mit Angular und TypeScript für die Oberfläche, mit Python und Django oder JavaScript für die Logik dahinter.
 
-## 🛠️ Tech Stack & Skills
-**Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+- 🌐 **eXactStack:** Websites und Web-Anwendungen für Vereine, Betriebe und Selbstständige, vor Ort und remote: [exactstack.de](https://exactstack.de)
+- 👨‍💻 **Portfolio:** [lutz-boelling.de](https://lutz-boelling.de)
+- 🎓 Fullstack-Weiterbildung bei der Developer Akademie: Frontend abgeschlossen, Backend läuft gerade
+- 🌱 Lerne gerade: React und Vue.js
 
-**Backend**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+---
 
-**Design & Tools**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=flat&logo=material-design&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### Stack
 
-## 🎯 Aktuell am Lernen
-- Angular Single-Page Applications
-- Django REST APIs
-- Material Design Principles
-- Clean Code & Best Practices
+| Bereich | Technologien |
+| --- | --- |
+| **Frontend** | Angular · TypeScript · JavaScript · HTML · CSS · Material Design |
+| **Backend** | Python · Django · REST-APIs · Supabase · Firebase |
+| **Tools & Arbeitsweise** | Git · Figma · Scrum |
 
-## 📫 Kontakt
-- GitHub: [@eXactDevFlaw](https://github.com/eXactDevFlaw)
-- Mail: [Mail - eXactDevFlaw](mailto:exactstack@gmail.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,materialui,python,django,supabase,firebase,git,figma" alt="Angular, TypeScript, JavaScript, HTML, CSS, Material UI, Python, Django, Supabase, Firebase, Git, Figma" />
+</p>
+
+### Worauf ich Wert lege
+
+- **Sauberer, wartbarer Code**, den auch andere später gut weiterentwickeln können
+- **Barrierefreiheit und Performance**, damit eine Seite für alle schnell und gut nutzbar ist
+- **Datenschutzkonforme Umsetzung**, ohne unnötige Tracker und Cookie-Banner
+
+---
+
+### Kontakt
+
+📫 [exactstack@gmail.com](mailto:exactstack@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/lutzboelling) · 🌐 [exactstack.de](https://exactstack.de)
+
+Du hast ein Projekt oder ein spezielles Anliegen? Schreib mir einfach.
